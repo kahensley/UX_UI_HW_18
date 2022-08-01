@@ -1,0 +1,58 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+}
+.logo {
+    width: 10%;
+    padding: 1%;
+    text-align: center;
+}
+nav {
+    width: 83%;
+    padding: 1%;
+}
+ul {
+    margin-left: auto;
+    width: 50%;
+}
+
+li {
+    padding-left: 40px;
+}
+
+.navigation {
+    background-color: #00295f;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+footer {
+    background-color: #00295f;
+    padding: 2px;
+}
+.ulfooter {
+    display: inline-block;
+    vertical-align: top;
+    padding: 2px;
+
+}
