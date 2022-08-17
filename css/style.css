@@ -161,7 +161,7 @@ footer {
     border-color: white;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     .flexContainer {
       display: flex;
       flex-direction: column;
@@ -188,4 +188,6 @@ footer {
         margin: 0 0 10% 0;
         row-gap: 5px;
     }
+    h1 {
+        font-size: 40px;
   }
